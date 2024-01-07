@@ -2,4 +2,4 @@
 
 https://dreamhack.io/
 
-dreamhack 코드 정리 및 wargame 예제 정리
+dreamhack 예제 및 wargame 예제 정리
