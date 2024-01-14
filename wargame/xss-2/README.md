@@ -2,6 +2,11 @@
 
 ## 문제
 
+여러 기능과 입력받은 URL을 확인하는 봇이 구현된 서비스입니다.
+XSS 취약점을 이용해 플래그를 획득하세요. 플래그는 flag.txt, FLAG 변수에 있습니다.
+
+플래그 형식은 DH{…} 입니다.
+
 https://dreamhack.io/wargame/challenges/268
 
 ## 풀이

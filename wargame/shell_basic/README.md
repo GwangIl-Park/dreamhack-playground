@@ -3,6 +3,15 @@
 
 ## 문제
 
+입력한 셸코드를 실행하는 프로그램이 서비스로 등록되어 작동하고 있습니다.
+
+main 함수가 아닌 다른 함수들은 execve, execveat 시스템 콜을 사용하지 못하도록 하며, 풀이와 관련이 없는 함수입니다.
+
+flag 파일의 위치와 이름은 /home/shell_basic/flag_name_is_loooooong입니다.
+감 잡기 어려우신 분들은 아래 코드를 가지고 먼저 연습해보세요!
+
+플래그 형식은 DH{...} 입니다. DH{와 }도 모두 포함하여 인증해야 합니다.
+
 https://dreamhack.io/wargame/challenges/410
 
 ## 풀이
